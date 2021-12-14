@@ -1,0 +1,16 @@
+https://www.carlrippon.com/creating-react-app-with-typescript-eslint-with-webpack5/
+
+
+https://github.com/vinodh1988/Mongo-Sequelize-mysql
+
+https://github.com/vinodh1988/react-routing-app-saga.git
+
+https://github.com/vinodh1988/webpack-skeleton
+
+https://github.com/vinodh1988/broadridge-lazy-loading
+
+https://github.com/vinodh1988/react-test-jest
+
+https://github.com/vinodh1988/first-react-spa
+
+https://github.com/vinodh1988/nodejs-full-stack/tree/master/node-app
